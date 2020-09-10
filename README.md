@@ -1,2 +1,2 @@
-# isTouching-c20
-algorithm using sprites
+# p5.play-boilerplate
+Boiler plate for p5.play
